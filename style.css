@@ -22,7 +22,7 @@ img {
 }
 
 .top-img:hover {
-    width: max-content;
+    width: 80%;
     box-shadow: 0 0 5px #89fc00, 0 0 10px #FFF, 0 0 15px #89fc00, 0 0 20px #89fc00, 0 0 30px #89fc00, 0 0 40px #89fc00, 0 0 55px #89fc00, 0 0 75px #89fc00;
     transition: all 600ms ease-in-out;
 }
